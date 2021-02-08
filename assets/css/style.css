@@ -1,9 +1,4 @@
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  overflow-x: hidden;
-}
+
 
 .row {
   width: 992px;
@@ -89,7 +84,7 @@ img {
 
   body{
     font-size: 0.7em;
-    width: 420px;
+    width: 100%;
     margin: 0;
     padding: 0;
     text-align: center;
@@ -103,7 +98,7 @@ img {
   }
 
   .row {
-    width: 420px;
+    width: 100%;
     margin-top: 0;
   }
 
