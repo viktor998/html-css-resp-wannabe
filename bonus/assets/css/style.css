@@ -91,6 +91,7 @@ img {
     padding: 0;
     text-align: center;
     box-sizing: border-box;
+    overflow-x: hidden;
 
   }
 
@@ -163,6 +164,7 @@ img {
     padding: 0;
     text-align: center;
     box-sizing: border-box;
+    overflow-x: hidden;
 
   }
 
